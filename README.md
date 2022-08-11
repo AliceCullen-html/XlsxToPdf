@@ -33,6 +33,9 @@ E por fim vamos executar o excel utilizando o caminho que definimos na váriavel
 
 ## Dicas e observações:
 <ul>
-<li> O arquivo PDF vai ser salvo na mesma pasta do programa!</li>
+<li> O arquivo PDF vai ser salvo na mesma pasta do programa</li>
    <li>Converta o arquivo para .EXE e compartilhe na sua empresa</li>
 <ul>   
+
+# Obrigado por ter chegado até aqui!
+Dúvidas ou sugestões: https://www.linkedin.com/in/marcus-cunha-18762718a/
